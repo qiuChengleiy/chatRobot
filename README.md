@@ -12,6 +12,9 @@ ____nodejs实现终端交互式聊天机器人 支持emoji表情
 ```
 
 
+### 运行截图
+
+![image](./WechatIMG1.jpeg)
 
 ```js
  
