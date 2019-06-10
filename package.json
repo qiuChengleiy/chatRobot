@@ -1,0 +1,33 @@
+{
+  "name": "chatRobot",
+  "homepage": "https://github.com/qiuChengleiy/chatRobot",
+  "description": "a terminal chat robot",
+   "keywords": [
+    "tulin",
+    "chat",
+    "robot",
+    "chatRobot"
+  ],
+  "author": "qiuchenglei <1421546334@qq.com>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "robot": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:qiuChengleiy/chatRobot.git"
+  },
+  "devDependencies": {
+    "request": "^2.88.0",
+    "tuling": "^2.0.0"
+  },
+  "engine": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "readmeFilename": "README.md"
+}
